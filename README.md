@@ -14,21 +14,11 @@ A Deep Learning project that predicts Bitcoin prices using a **Long Short-Term M
 ## 🛠️ Tech Stack
 
 * **Language:** Python 3.9+
-* **Deep Learning:** PyTorch (LSTM, Linear Layers)
+* **Deep Learning:** PyTorch 
 * **Web Framework:** Streamlit
-* **Data Processing:** Pandas, NumPy, Scikit-learn (MinMaxScaler)
+* **Data Processing:** Pandas, NumPy, Scikit-learn 
 * **Visualization:** Matplotlib
 
-## 📂 Project Structure
-
-```text
-├── app.py                   # The main Streamlit web application
-├── bitcoin_lstm_model.pth   # The trained PyTorch model file
-├── scaler.pkl               # The fitted MinMaxScaler (for inverse scaling)
-├── requirements.txt         # List of dependencies
-├── bitcoin_data.csv         # (Optional) Dataset used for training
-└── README.md                # Project documentation
-```
 ## ⚙️ Installation & Usage
 1. Clone the Repository
    ```
