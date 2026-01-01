@@ -31,12 +31,13 @@ A Deep Learning project that predicts Bitcoin prices using a **Long Short-Term M
 ```
 ## ⚙️ Installation & Usage
 1. Clone the Repository
-   git clone [https://github.com/YOUR_USERNAME/Bitcoin-Price-Prediction-LSTM.git](https://github.com/YOUR_USERNAME/Bitcoin-Price-Prediction-LSTM.git)
+   ```git clone [https://github.com/YOUR_USERNAME/Bitcoin-Price-Prediction-LSTM.git](https://github.com/YOUR_USERNAME/Bitcoin-Price-Prediction-LSTM.git)
    cd Bitcoin-Price-Prediction-LSTM
+   ```
 2. Install Dependencies
-   pip install -r requirements.txt
+   ```pip install -r requirements.txt```
 3. Run the Application
-   streamlit run app.py
+   ```streamlit run app.py```
 
 ## 📊 Model Performance
 The model was trained for 100 epochs using the Adam optimizer and Mean Squared Error (MSE) loss.
